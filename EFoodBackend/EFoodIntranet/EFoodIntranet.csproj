@@ -173,6 +173,7 @@
     <Compile Include="Controllers\ProcesadorController.cs" />
     <Compile Include="Controllers\ProcesadorTarjetaController.cs" />
     <Compile Include="Controllers\ProductoController.cs" />
+    <Compile Include="Controllers\RestauranteClienteController.cs" />
     <Compile Include="Controllers\RestauranteProductoController.cs" />
     <Compile Include="Controllers\TarjetaController.cs" />
     <Compile Include="Controllers\TipoPrecioController.cs" />
