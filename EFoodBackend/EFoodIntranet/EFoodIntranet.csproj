@@ -167,6 +167,8 @@
     <Compile Include="Controllers\ConsecutivoController.cs" />
     <Compile Include="Controllers\ConsultaProductoLCController.cs" />
     <Compile Include="Controllers\Consulta_Error_IntranetController.cs" />
+    <Compile Include="Controllers\DetalleController.cs" />
+    <Compile Include="Controllers\DetalleProdController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LineaComidaController.cs" />
     <Compile Include="Controllers\PrecioProductoController.cs" />

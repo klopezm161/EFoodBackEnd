@@ -66,6 +66,8 @@
   <ItemGroup>
     <Compile Include="Bitacora.cs" />
     <Compile Include="ConsultaProducto.cs" />
+    <Compile Include="Detalle.cs" />
+    <Compile Include="DetalleProd.cs" />
     <Compile Include="Error_Intra.cs" />
     <Compile Include="Consecutivos.cs" />
     <Compile Include="Encriptacion.cs" />
